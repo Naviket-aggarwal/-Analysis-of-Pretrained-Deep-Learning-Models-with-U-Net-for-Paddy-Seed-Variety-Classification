@@ -56,8 +56,8 @@ The workflow of the project follows these key steps:
 
 5. **Model Training**
 
-   * Training performed on GPU-enabled environment (Google Colab)
-   * Number of epochs: 20
+   * Training performed on GPU-enabled environment
+   * Number of epochs: 50
 
 ---
 
